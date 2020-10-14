@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Leaderboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_name">Learner Name</string>
+    <string name="text_hours">Learning Hours</string>
+    <string name="tab_label1">Learning Leaders</string>
+    <string name="tab_label2">SkillIQ Leaders</string>
+    <string name="text_skill">SkillIQ</string>
+    <string name="text_skilliq_country">Country</string>
+</resources>
